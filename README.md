@@ -1,6 +1,6 @@
 # OvalPlay
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4. It uses the experiment ivy renderer and hence will not work on Windows machines.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4. It uses the experimental ivy renderer and hence will not work on Windows machines.
 
 ## Development server
 
